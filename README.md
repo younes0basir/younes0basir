@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year Software Engineering student** passionate about turning **data into insights** and building **web applications** that solve real problems. Currently seeking a data internship to apply my skills in Python, SQL, and data visualization.
+I'm a **3rd-year  Software Engineering student** passionate about turning **data into insights** and building **web applications** that solve real problems. Currently seeking a data internship to apply my skills in Python, SQL, and data visualization.
 
 - 🔭 I'm currently working on **data analysis projects** and **web development**
 - 🌱 I'm learning **Python, SQL, Excel, and Data Visualization**
@@ -51,6 +51,19 @@ I'm a **3rd-year Software Engineering student** passionate about turning **data 
 ---
 
 ## 🏆 Featured Projects
+
+### 🏪 Quincaillerie Fassi
+**Hardware Store Website** | [Live Demo](http://quincailleriefassi.ma/) | [GitHub](https://github.com/younes1528/quincaillierie_fassi)
+
+A fully functional e-commerce website for a hardware store with product catalog and customer management.
+- **Tech Stack**: React, Vite, Tailwind CSS, Node.js, MongoDB
+- **Features**: Product catalog, shopping cart, user authentication, admin dashboard
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,mongodb" alt="Quincaillerie Fassi Tech" />
+</div>
+
+---
 
 ### 📚 CourseWard
 **E-learning Platform** | [Live Demo](https://courseward-14va.onrender.com/) | [GitHub](#)
